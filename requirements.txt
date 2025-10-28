@@ -1,5 +1,5 @@
 # 核心AI/ML相关
-crewai==1.2.1
+crewai[google-genai]>=1.2.1
 langchain-chroma==1.0.0
 langchain-core==1.0.1
 langchain-huggingface==1.0.0
